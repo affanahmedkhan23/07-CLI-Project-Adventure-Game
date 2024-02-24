@@ -1,2 +1,2 @@
-# 07-CLI-Project-Adventure-Game
-Project-Adventure-Game
+# CLI-Project-Guess-Gaming
+CLI Project Guess Gaming
